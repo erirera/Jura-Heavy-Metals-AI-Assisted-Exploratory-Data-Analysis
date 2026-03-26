@@ -6,7 +6,7 @@
 
 When training machine learning models on spatial data, understanding your underlying dataset is half the battle.
 
-I recently took the classic **Swiss Jura dataset**—a benchmark in environmental geochemistry—and isolated a strictly controlled **Prediction Set (n=259)** to serve as my training ground.
+I recently took the classic **Swiss Jura dataset**—a benchmark in environmental geochemistry—and isolated a strictly controlled **Training/Prediction Set (n=259)** to serve as my training ground.
 
 Rather than jumping straight into complex spatial modeling (like Kriging or Graph Neural Networks), I built a comprehensive, interactive **EDA Dashboard** to uncover the initial spatial patterns. 
 
